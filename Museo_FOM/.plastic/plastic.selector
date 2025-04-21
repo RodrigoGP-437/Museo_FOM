@@ -1,0 +1,4 @@
+repository "Museo_Francisco_Orozco@Souldeyk437@cloud"
+  path "/"
+    br "/main"
+    co "/main"
